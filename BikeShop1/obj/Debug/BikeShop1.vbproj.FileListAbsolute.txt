@@ -1,0 +1,10 @@
+D:\visual studio 2015\Projects\BikeShop1\BikeShop1\bin\Debug\BikeShop1.exe.config
+D:\visual studio 2015\Projects\BikeShop1\BikeShop1\bin\Debug\BikeShop1.exe
+D:\visual studio 2015\Projects\BikeShop1\BikeShop1\bin\Debug\BikeShop1.pdb
+D:\visual studio 2015\Projects\BikeShop1\BikeShop1\bin\Debug\BikeShop1.xml
+D:\visual studio 2015\Projects\BikeShop1\BikeShop1\obj\Debug\BikeShop1.Form1.resources
+D:\visual studio 2015\Projects\BikeShop1\BikeShop1\obj\Debug\BikeShop1.Resources.resources
+D:\visual studio 2015\Projects\BikeShop1\BikeShop1\obj\Debug\BikeShop1.vbproj.GenerateResource.Cache
+D:\visual studio 2015\Projects\BikeShop1\BikeShop1\obj\Debug\BikeShop1.exe
+D:\visual studio 2015\Projects\BikeShop1\BikeShop1\obj\Debug\BikeShop1.xml
+D:\visual studio 2015\Projects\BikeShop1\BikeShop1\obj\Debug\BikeShop1.pdb
