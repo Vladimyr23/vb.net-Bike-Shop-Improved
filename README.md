@@ -1,10 +1,10 @@
 # vb.net-Bike-Shop1-Improved
 
 Initial Screen
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Initial Screen](/screenshots/img.jpg?raw=true "Initial Screen")
 
 Discount Selector
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Discount Selector](/relative/path/to/img.jpg?raw=true "Discount Selector")
 
 Result Screen
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Result Screen](/relative/path/to/img.jpg?raw=true "Result Screen")
